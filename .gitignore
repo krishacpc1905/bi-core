@@ -1,0 +1,13 @@
+/data/
+dblp-author/out.dblp-author
+
+# Build artifacts
+*.o
+/index/index.out
+/insert/insert.out
+/delete/delete.out
+
+# Downloaded and extracted DBLP dataset
+/download.tsv.dblp-author.tar.bz2
+/dblp-author/
+*.tar.bz2

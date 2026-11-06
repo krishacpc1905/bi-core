@@ -1,0 +1,12 @@
+start read graph
+start init
+INIT start U max: 1953086
+INIT start V max: 5624220
+INIT d_uMax: 1386 d_vMax: 287
+init done
+U_max: 1953086 V_max: 5624220 E_max: 12282059
+INDEX refine index done max: (426, 282) k max: 14 T: 13598053
+K_max: 14 L_max: 60
+Copy time: 133.197 ms
+Peeling time: 1976.885 ms
+Indexing time: 2854.409 ms

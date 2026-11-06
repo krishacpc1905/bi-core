@@ -1,0 +1,15 @@
+start read graph
+FILE u_max: 1953085 v_max: 5624219
+FILE u_max: 1953085 v_max: 5624219
+FILE u_max: 1953085 v_max: 5624219
+U_max: 1953086 V_max: 5624220 E_max: 12281059
+g_simpleTime: 0.164 ms
+g_findTime: 0.060 ms
+g_maintainUpgradeCnt: 2960
+g_maintainTime: 0.730 ms 1.196 ms 5.152 ms
+g_maintainSortTime: 0.233 ms
+g_maintainProcessTime: 6.030 ms
+g_maintainDoneTime: 0.789 ms
+g_checkIndexTime: 0.253 ms
+g_estimateTime: 0.098 ms
+Total query time: 7.305 ms
